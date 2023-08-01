@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-<img src="https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/html5- E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 <img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=white">
 
