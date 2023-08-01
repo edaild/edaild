@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-<img src="https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 
 <img src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/sql-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
