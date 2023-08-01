@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
 
-<img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
 <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=for-the-badge&logo=amazonaws&logoColor=white">
 
