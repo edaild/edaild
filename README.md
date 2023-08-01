@@ -2,7 +2,7 @@
 
 [![edaild GitHub stats](https://github-readme-stats.vercel.app/api?username=edaild&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/edaild)
 
-|웹개발|정보보안|클라우드 컴퓨팅|
+|웹 개발|정보보안|클라우드 컴퓨팅|
 |------|---|---|
 |프론트 엔드|LINUX|AWS 스터디|
 |백 엔드|네트워크|Amazon AWS|
