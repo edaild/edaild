@@ -1,5 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20edaild%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+# Retention Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+<img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white">
+
+<img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
