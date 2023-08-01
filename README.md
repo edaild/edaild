@@ -8,7 +8,16 @@
 
 <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-<img src="https://img.shields.io/badge/Linux-3776AB?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/html5-3776AB?style=for-the-badge&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/css3-3776AB?style=for-the-badge&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+
+<img src="https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/sql-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
