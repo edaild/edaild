@@ -14,9 +14,9 @@
 단계 코드 : 아이디어 I - 검토 E - 기획 P - 개발 D - 검사 T - 업로드 U 
 |이름|종류|진행도|
 |------|---|---|
-|한국철도공사 웹사이트|WEB|기획|
-|Project-E|GAME|아이디어|
-| Project-F|AI|아이디어|
+|한국철도공사 웹사이트|WEB|P|
+|Project-E|GAME|I|
+| Project-F|AI|I|
 
 # Retention Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/kali linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
