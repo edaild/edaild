@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20edaild%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 [![edaild GitHub stats](https://github-readme-stats.vercel.app/api?username=edaild&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/edaild)
-## 내가 생각하는 IT의 의미란 새로운 세상을 만드는 힘
-### 내가 IT를 가지고 이루고 싶은 목표는 개발자와 유저가 모두가 즐거워하고 서로 소통하고 연결된 세상을 만드는 것 
-#### 많은 과정 중에 대표적인 과정
+## In my opinion, the meaning of IT is the power to create a new world.
+### The goal I want to achieve with IT is to create a world where developers and users can all have fun, communicate with each other, and be connected.
+#### A representative course among many courses
 |웹 개발|정보보안|클라우드 컴퓨팅|
 |------|---|---|
 |프론트 엔드|LINUX|AWS 스터디|
