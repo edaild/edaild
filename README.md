@@ -13,10 +13,10 @@
 단계 코드 : 아이디어 I - 검토 E - 기획 P - 개발 D - 검사 T - 업로드 U
 |이름|종류|진행도|
 |------|---|---|
+|원신 보스전|게임|I|
 ||||
 ||||
-||||
-### In preparation for entering university in 2024, GitHub activities will be temporarily suspended.
+
 # Retention Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/kali linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <br><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
