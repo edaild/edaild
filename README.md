@@ -13,8 +13,8 @@
 단계 코드 : 아이디어 I - 검토 E - 기획 P - 개발 D - 검사 T - 업로드 U
 |이름|종류|진행도|
 |------|---|---|
-|Genshin Boss 1nd phase|게임|P|
-||||
+|Genshin Boss 1nd phase|Game|P|
+|project-E|Wed|I|
 ||||
 
 # My Skills
