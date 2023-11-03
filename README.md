@@ -14,7 +14,7 @@
 |이름|종류|진행도|
 |------|---|---|
 |Genshin Boss 1page|Game|D|
-|project-E|Wed|I|
+|project-E|Web|I|
 ||||
 
 # My Skills
