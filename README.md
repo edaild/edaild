@@ -11,7 +11,7 @@
 #### making project
 
 단계 코드 : 기획 I - 개발 D - 검사 T - 업로드 U
-|이름|종류|진행도|
+|name|type|code|
 |------|---|---|
 |Genshin Boss 1page|Game|D|
 |project-E|Web|I|
