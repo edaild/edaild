@@ -8,13 +8,13 @@
 |프론트 엔드|LINUX|AWS 스터디|
 |백 엔드|네트워크|Amazon AWS|
 |디자인|사이버 가디언즈|기능 경기대회 참가|
-#### making project
+#### Making Project
 
-단계 코드 : 기획 I - 개발 D - 검사 T - 업로드 U
-|name|type|code|
+단계 Code : 기획 I - 개발 D - 검사 T - 업로드 U
+|Name|Type|Code|
 |------|---|---|
 |Genshin Boss 1page|Game|D|
-|project-E|Web|I|
+|Project-E|Web|I|
 ||||
 
 # My Skills
