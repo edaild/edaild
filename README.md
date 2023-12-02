@@ -8,14 +8,6 @@
 |프론트 엔드|LINUX|AWS 스터디|
 |백 엔드|네트워크|Amazon AWS|
 |디자인|사이버 가디언즈|기능 경기대회 참가|
-#### Making Project
-
-단계 Code : 기획 I - 개발 D - 검사 T - 업로드 U
-|Name|Type|Code|
-|------|---|---|
-|Genshin Boss 1page|Game|D|
-|Project-E|Web|I|
-||||
 
 # My Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/kali linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
