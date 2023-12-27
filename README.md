@@ -1,13 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20edaild%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 [![edaild GitHub stats](https://github-readme-stats.vercel.app/api?username=edaild&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/edaild)
-## In my opinion, the meaning of IT is the power to create a new world.
-### The goal I want to achieve with IT is to create a world where developers and users can all have fun, communicate with each other, and be connected.
-#### A representative course among many courses
-|웹 개발|정보보안|클라우드 컴퓨팅|
-|------|---|---|
-|프론트 엔드|LINUX|AWS 스터디|
-|백 엔드|네트워크|Amazon AWS|
-|디자인|사이버 가디언즈|기능 경기대회 참가|
 
 # My Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/ubuntu Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/kali linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
