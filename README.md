@@ -10,11 +10,11 @@
 
 ## university
 
-|GAME|
-|----|
-||
-||
-||
+|GAME|VR/AR|
+|---|---|
+|||
+|||
+|||
 
 # My Skills
 |C Series|Front Eed|Back End|Design|Linux|Cloud Computing|Game Engine|
