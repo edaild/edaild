@@ -10,7 +10,7 @@
 
 ## university
 
-|GMME|
+|GAME|
 |----|
 ||
 ||
