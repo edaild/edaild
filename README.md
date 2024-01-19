@@ -10,7 +10,7 @@
 
 ## university
 
-|GAME|VR/AR|
+|Game|VR/AR|
 |---|---|
 |||
 |||
