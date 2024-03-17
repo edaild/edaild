@@ -11,11 +11,11 @@
 |||Skills Competition 2023(2023-04-03 ~ 2023-04-07)|
 
 ## College
-|Game|VR|
-|------|---|
-|Desina Game production club(2024-03-04 ~ 20OO-OO-OO)||
-|Quaternion programming club(2024-03-13 ~ 20OO-OO-OO)||
-|||
+|VR / Game|
+|------|
+|Desina Game production club(2024-03-04 ~ 20OO-OO-OO)|
+|Quaternion programming club(2024-03-13 ~ 20OO-OO-OO)|
+||
 
 # My Skills
 |C Series|Front Eed|Back End|Design|Linux|Cloud Computing|Game Engine|
