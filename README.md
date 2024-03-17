@@ -4,10 +4,16 @@
 ## High School
 |Wed|Information security|cloud computing|
 |------|---|---|
-|Front End|IT Network|AWS Study|
-|Back End|Cyber ​​Guardians|Skills Competition 2023|
-|Design|Cyber ​​Guardians conference||
+|IT Network(2022-05-02 ~ 2023-06-05)|IT Network(2022-05-02 ~ 2023-06-05)|AWS Study|
+|Advanced Web Development Course(2023-01-10 ~ 2023-02-01)|Cyber ​​Guardians(2022-09-05 ~ 2022-12-01)|Skills Competition 2023|
+|Employment customized class(2023-05-23 ~ 2023-06-12)|Cyber ​​Guardians conference(2022-11-09)||
 
+## college
+|Game|VR|
+|------|---|
+|Desina||
+|Quaternion||
+|||
 
 # My Skills
 |C Series|Front Eed|Back End|Design|Linux|Cloud Computing|Game Engine|
