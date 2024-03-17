@@ -4,9 +4,11 @@
 ## High School
 |Wed|Information security|cloud computing|
 |------|---|---|
-|IT Network(2022-05-02 ~ 2023-06-05)|IT Network(2022-05-02 ~ 2023-06-05)|AWS Study|
-|Advanced Web Development Course(2023-01-10 ~ 2023-02-01)|Cyber ​​Guardians(2022-09-05 ~ 2022-12-01)|Skills Competition 2023|
-|Employment customized class(2023-05-23 ~ 2023-06-12)|Cyber ​​Guardians conference(2022-11-09)||
+|IT Network(2022-05-02 ~ 2023-06-05)|IT Network(2022-05-02 ~ 2023-06-05)|AWS Study(2022-05-13 ~ 2022-07-20)|
+|Advanced Web Development Course(2023-01-10 ~ 2023-02-01)|Cyber ​​Guardians(2022-09-05 ~ 2022-12-01)|AWS (Amazon web service network construction and setup)|
+|Employment customized class(2023-05-23 ~ 2023-06-12)|Cyber ​​Guardians conference(2022-11-09)|Skill competition cloud computing event preparation class|
+|||Final preparation process for the 2023 Skills Competition|
+|||Skills Competition 2023|
 
 ## college
 |Game|VR|
