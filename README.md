@@ -6,7 +6,7 @@
 |------|---|---|
 |Front End|IT Network|AWS Study|
 |Back End|Cyber ​​Guardians|Skills Competition 2023|
-|Design|||
+|Design|Cyber ​​Guardians conference||
 
 
 # My Skills
