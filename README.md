@@ -13,8 +13,8 @@
 ## college
 |Game|VR|
 |------|---|
-|Desina Game production club(2024-03-04~20??-??-??)||
-|Quaternion programming club(2024-03-13~20??-??-??)||
+|Desina Game production club(2024-03-04 ~ 20OO-OO-OO)||
+|Quaternion programming club(2024-03-13 ~ 20OO-OO-OO)||
 |||
 
 # My Skills
