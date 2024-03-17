@@ -10,7 +10,7 @@
 |||Final preparation process for the 2023 Skills Competition(2023-03-20 ~ 2023-03-31)|
 |||Skills Competition 2023(2023-04-03 ~ 2023-04-07)|
 
-## college
+## College
 |Game|VR|
 |------|---|
 |Desina Game production club(2024-03-04 ~ 20OO-OO-OO)||
