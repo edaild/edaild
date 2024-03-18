@@ -2,7 +2,7 @@
 [![edaild GitHub stats](https://github-readme-stats.vercel.app/api?username=edaild&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/edaild)
 
 ## High School
-|Wed|Information security|cloud computing|
+|Web|Information security|cloud computing|
 |------|---|---|
 |IT Network(2022-05-02 ~ 2023-06-05)|IT Network(2022-05-02 ~ 2023-06-05)|AWS Study(2022-05-13 ~ 2022-07-20)|
 |Advanced Web Development Course(2023-01-10 ~ 2023-02-01)|Cyber ​​Guardians(2022-09-05 ~ 2022-12-01)|AWS (Amazon web service network construction and setup)(2022-11-04 ~ 2022-11-26)|
