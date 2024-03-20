@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20edaild%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edaild&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<p> </P>
 [![edaild GitHub stats](https://github-readme-stats.vercel.app/api?username=edaild&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/edaild)
 
 ## High School
