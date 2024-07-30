@@ -33,7 +33,7 @@
 |2024 Game Project Team 7 (2024-04-03 ~ 2024-06-21)|
 |2024 Desina Game Project Team A (2024-04-08 ~ 2024-05-06)|
 |Do It Do It(Game production) Study(2024-04-04 ~ 2024-05-30)|
-
+|Metaverse Hackathon 2024 (2024-07-41 ~ 2024-08-02)|
 # My Skills
 |C Series|Front Eed|Back End|Design|Linux|Cloud Computing|Game Engine|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
